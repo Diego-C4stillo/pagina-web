@@ -1,1 +1,16 @@
 /* Este es el archivo de estilos CSS */
+header {
+    text-align: left;
+    color: blue;
+    border: 1px solid blue;
+}
+
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+.presentacion {
+    font-size: 20px;
+    text-align: center;
+    color: green;
+}
