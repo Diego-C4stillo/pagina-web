@@ -1,16 +1,15 @@
 /* Este es el archivo de estilos CSS */
-header {
-    font-size: 30px;
-    text-align: center;
-    color: green;
-    border: 1px solid blue;
-}
-
 * {
     padding: 0;
     margin: 0;
     font-size: 30px;
     font-family: Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    color: green;
+    border: 1px solid blue;
 }
 
 .presentacion {
