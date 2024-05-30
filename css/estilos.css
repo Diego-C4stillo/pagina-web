@@ -6,12 +6,14 @@
     font-family: Helvetica, sans-serif;
 }
 
+/* Este es el header*/
 header {
     text-align: center;
     color: green;
     border: 1px solid blue;
 }
 
+/*Este es la presentación*/
 .presentacion {
     font-size: 30px;
     text-align: center;
