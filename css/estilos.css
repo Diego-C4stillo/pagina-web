@@ -1,1 +1,6 @@
 /* Este es el archivo de estilos CSS */
+header {
+    text-align: center;
+    color: green;
+    border: 1px solid blue;
+}
