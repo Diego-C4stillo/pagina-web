@@ -1,1 +1,15 @@
 /* Este es el archivo de estilos CSS */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    color: red;
+    border: 1px solid blue;
+}
+
+.presentacion {
+    font-size: 20px;
+    text-align: right;
+}
